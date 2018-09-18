@@ -1,7 +1,3 @@
-#Despoina Dovletoglou (17200865)
-#Wojtek Sikorski (17204229)
-#Abhinav Jain (17200110)
-
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
